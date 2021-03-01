@@ -1,0 +1,48 @@
+.deets{
+    text-align: center;
+    align-items: center;
+}
+
+body{
+    background-color: lightskyblue;
+}
+
+h3{
+    margin-right: 20px;
+}
+
+button{
+    background-color: mediumblue;
+    color: white;
+
+}
+
+.mainsub{
+    border: solid 1px black;
+    background-color: white;
+    width: 300px;
+    margin-left:500px;
+}
+
+
+.signup{
+    align-items: center;
+    border-style:15px;
+
+}
+
+.nav{
+    text-align: right;
+    padding: 10px;
+    background: white;
+    margin-top: -10px;
+    margin-bottom: 50px;
+    
+}
+
+.logo{
+    display: flex;
+    height:30px;
+    width: 30px;
+    margin-left: 80px;
+}
